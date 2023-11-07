@@ -1,10 +1,10 @@
 # QRCode Genrator & Reader
 <br>
-# Prerequisites
+## Prerequisites
 <br>
 [NodeJS](https://nodejs.org/en/download)
 
-# Run
+## Run
 <br>
 install all packages
 ```bash
