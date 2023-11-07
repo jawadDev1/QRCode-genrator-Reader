@@ -1,5 +1,5 @@
 # QRCode Genrator & Reader
-<br>
+
 ## Prerequisites
 
 [NodeJS](https://nodejs.org/en/download)
